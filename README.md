@@ -26,4 +26,10 @@ How the software design principles are demonstrated in code
 - modularity is demonstrated in the python functions when defining each function is broken down into sepearte components making it easy to test and run the code
 - abstraction is demonstrated in the park meter simulation code for calculating the parking time countdown when using the while loop function to hide the complex calculation this can create a clean function and easy for user interaction
 - encapsulation is demonstrated in the python functions the data from the staff_info is returned in the dict storing the private information in the function
-  
+
+
+
+To understand the thought process and research findings 
+
+
+In the folder class_practicals the codes are what I learnt in class and how it could help when writing my own codes for projects and assignments when following the codes I was able to put into practice with different scenarios given helping me when deciding the design principles to understand the importance of maintaing the code to be up to date and no errors to be reusable for other projects saving time when creating the code 
