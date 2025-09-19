@@ -11,3 +11,10 @@ Assessment overview
 
 
 In my repository I need to have my own codes and codes practiced with comments analyzing programming principles and concepts 
+
+
+Summary of comments and analysis in this projects 
+- the key software design principles mentioned in the codes are SRP(single responsibility principle) stating that in a class,method and function it should only have one task to focus on
+- modularity is the practice for breaking down the code in components creating an organized code
+- abstraction hides the complex process focusing on making the code clearer and easy to understand and reuse
+- encapsulation is covering the data by grouping them and actions into a class to accessable to use 
